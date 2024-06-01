@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "1",
+    "category": "apple"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "id": "3",
+    "category": "Rolex"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/3cnWRtw/Sony-logo.jpg",
+    "id": "aei",
+    "category": "Sony"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "id": "6",
+    "category": "Walton"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "id": "2",
+    "category": "HP"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "id": "4",
+    "category": "Samsung"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/3fq9Vvd/9fc9779a9bb24cb9a5ba-1.png",
+    "id": "1",
+    "rating": "4.9",
+    "category": "apple"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/mSjMzP1/Fan-1-400x472.jpg",
+    "id": "2",
+    "rating": "4.6",
+    "category": "HP"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "4",
+    "rating": "4.7",
+    "category": "Samsung"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "5",
+    "rating": "4.9",
+    "category": "Sony"
+
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "category": "Walton"
+  },
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/3fq9Vvd/9fc9779a9bb24cb9a5ba-1.png",
+    "id": "1",
+    "rating": "4.9",
+    "category": "apple"
+  },
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/3fq9Vvd/9fc9779a9bb24cb9a5ba-1.png",
+    "id": "1",
+    "rating": "4.9",
+    "category": "apple"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/mSjMzP1/Fan-1-400x472.jpg",
+    "id": "2",
+    "rating": "4.6",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/mSjMzP1/Fan-1-400x472.jpg",
+    "id": "2",
+    "rating": "4.6",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/mSjMzP1/Fan-1-400x472.jpg",
+    "id": "2",
+    "rating": "4.6",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/mSjMzP1/Fan-1-400x472.jpg",
+    "id": "2",
+    "rating": "4.6",
+    "category": "HP"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "5",
+    "rating": "4.9",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "5",
+    "rating": "4.9",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "5",
+    "rating": "4.9",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "id": "5",
+    "rating": "4.9",
+    "category": "Sony"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/gZTg1tb/HP-Victus-Gaming-Laptop-39-6-cm-15-fb1002-AX-3.png",
+    "id": "3",
+    "rating": "4.9",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/gZTg1tb/HP-Victus-Gaming-Laptop-39-6-cm-15-fb1002-AX-3.png",
+    "id": "3",
+    "rating": "4.9",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/gZTg1tb/HP-Victus-Gaming-Laptop-39-6-cm-15-fb1002-AX-3.png",
+    "id": "3",
+    "rating": "4.9",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/gZTg1tb/HP-Victus-Gaming-Laptop-39-6-cm-15-fb1002-AX-3.png",
+    "id": "3",
+    "rating": "4.9",
+    "category": "Rolex"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "4",
+    "rating": "4.7",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "4",
+    "rating": "4.7",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "4",
+    "rating": "4.7",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "4",
+    "rating": "4.7",
+    "category": "Samsung"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "category": "Walton"
+  }
+]
+
+
+
+

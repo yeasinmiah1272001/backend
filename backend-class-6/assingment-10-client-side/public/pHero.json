@@ -1,0 +1,277 @@
+
+
+[
+
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/pRLPKsk/9fc9779a9bb24cb9a5ba-1.png",
+    "id": "1",
+    "rating": "4.9",
+    "price": "5300",
+    "category": "apple"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/v4PLLJ0/victus-Laptop.png",
+    "id": "2",
+    "rating": "4.6",
+    "price": "556000",
+    "category": "HP"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/hDWfWfN/S23-Best-Samsung-Phone.png",
+    "id": "4",
+    "rating": "4.7",
+    "price": "5006780",
+    "category": "Samsung"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/QfKMX2h/eb13d6896c4fb4a8ae8e7467cc7f42af.jpg",
+    "id": "5",
+    "rating": "4.9",
+    "price": "500",
+    "category": "Sony"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/THhy5GM/Untitled-1-Recovered-17-800x800.png",
+    "id": "7",
+    "rating": "4.8",
+    "price": "500970",
+    "category": "Walton"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/XC37SGB/pngtree-smart-watch-electronic-watch-sports-running-watch-png-image-2619717.jpg",
+    "id": "3",
+    "rating": "4.9",
+    "price": "50430",
+    "category": "Rolex"
+  },
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/JtKZyzX/0419618-kids-headphones-riwbox-ct-7s-cat-ear-bluetooth-headphones-85db-volume-limitingled-light-up-k.jpg",
+    "id": "1",
+    "rating": "4.9",
+    "price": "50256",
+    "category": "apple"
+  },
+  {
+    "name": "Apple",
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/27d9808/oppo-watch-4-pro-banner.png",
+    "id": "1",
+    "rating": "4.9",
+    "price": "51000",
+    "category": "apple"
+  },
+  {
+    "name": "Apple",
+    
+    "img": "https://i.ibb.co/2kHcCym/apple-logo-10-1024x1024.png",
+    "cover": "https://i.ibb.co/WFGnrqs/png-transparent-headsets-box-packaging-design-elements-modern-headphone-sketch-realistic-3d.png",
+    "id": "1",
+    "rating": "4.9",
+    "price": "50540",
+    "category": "apple"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/3MRJr59/HP-Victus-Gaming-Laptop-39-6-cm-15-fb1002-AX-3.png",
+    "id": "2",
+    "rating": "4.6",
+    "price": "56570",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/8Nrtb9D/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "2",
+    "rating": "4.6",
+    "price": "56560",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/NTLmnph/c08393101.png",
+    "id": "2",
+    "rating": "4.6",
+    "price": "56500",
+    "category": "HP"
+  },
+  {
+    "name": "HP",
+    "img": "https://i.ibb.co/wBggbjF/hp.png",
+    "cover": "https://i.ibb.co/2tzHSJM/Hp-Pavilion-Laptop-Image-1200x1200.png",
+    "id": "2",
+    "rating": "4.6",
+    "price": "50780",
+    "category": "HP"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/5Trr0b8/81sq-BBdxe-L.jpg",
+    "id": "5",
+    "rating": "4.9",
+    "price": "509500",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/VjJ76C2/2027-78085.jpg",
+    "id": "5",
+    "rating": "4.9",
+    "price": "500430",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/61bvTQf/2-Jnj9x-Wu-CKJA3a-BPV2-Huhmdsvh-Cxzo5qhq-Lt-G3-S6.jpg",
+    "id": "5",
+    "rating": "4.9",
+    "price": "500920",
+    "category": "Sony"
+  },
+  {
+    "name": "Sony",
+    "img": "https://i.ibb.co/yqN0mzD/top-og.jpg",
+    "cover": "https://i.ibb.co/ZT9YvkX/xj-Qu-I1la-W31-TDs-XYy2-MD6-AWDnc-KDkipjyn14i-PQP.jpg",
+    "id": "5",
+    "rating": "4.9",
+    "price": "50750",
+    "category": "Sony"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/yPLkcvd/pngtree-golden-watch-illustrator-work-png-image-6566433.png",
+    "id": "3",
+    "rating": "4.9",
+    "price": "555000",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/bNkBGnq/gold-watch-diamond-clock-bracelet-ladies-watch.jpg",
+    "id": "3",
+    "rating": "4.9",
+    "price": "500330",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/ckRTZDX/08-rolex-oyster-perpetual-silver-black-dial.png",
+    "id": "3",
+    "rating": "4.9",
+    "price": "502200",
+    "category": "Rolex"
+  },
+  {
+    "name": "Rolex",
+    "img": "https://i.ibb.co/TtrxV7Y/rolex-logo-png-transparent.png",
+    "cover": "https://i.ibb.co/XC37SGB/pngtree-smart-watch-electronic-watch-sports-running-watch-png-image-2619717.jpg",
+    "id": "3",
+    "rating": "4.9",
+    "price": "500330",
+    "category": "Rolex"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/pRLPKsk/9fc9779a9bb24cb9a5ba-1.png",
+
+    "id": "4",
+    "rating": "4.7",
+    "price": "509900",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/pRLPKsk/9fc9779a9bb24cb9a5ba-1.png",
+
+    "id": "4",
+    "rating": "4.7",
+    "price": "50500",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/fNhp1nL/Samsung-Galaxy-A04e.webp",
+
+    "id": "4",
+    "rating": "4.7",
+    "price": "343000",
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung",
+    "img": "https://i.ibb.co/RTfK3S3/samsung-logo-preview.png",
+    "cover": "https://i.ibb.co/JK65DzF/Samsung-Galaxy-PNG-Images-HD.png",
+
+    "id": "4",
+    "rating": "4.7",
+    "price": "501300",
+    "category": "Samsung"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/9Hv0jdx/latest-all-in-one-price-in-Bangladesh-2022-320x320.png",
+    "id": "7",
+    "rating": "4.8",
+    "price": "526400",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/D8LN4Kh/Fan-1-400x472.jpg",
+    "id": "7",
+    "rating": "4.8",
+    "price": "674000",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/d401MPm/a-2-300x300.png",
+    "id": "7",
+    "rating": "4.8",
+    "price": "5600",
+    "category": "Walton"
+  },
+  {
+    "name": "Walton",
+    "img": "https://i.ibb.co/bg8FHjB/walton.png",
+    "cover": "https://i.ibb.co/RT6h6nP/oppo-watch-4-pro-banner.png",
+    "id": "7",
+    "rating": "4.8",
+    "price":"50800",
+    "category": "Walton"
+  }
+]
+
+
+
+
+
+
