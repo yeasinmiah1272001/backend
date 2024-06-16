@@ -1,0 +1,55 @@
+[
+  {
+       "id" :1,
+    "name": "Cycling",
+    "image": "https://i.ibb.co/X3YTWwN/img1.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  },
+  {
+    "id": 2,
+    "name": "Golf",
+    "image": "https://i.ibb.co/VQtB3D6/img2.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  },
+  {
+    "id": 3,
+    "name": "Swimming",
+    "image": "https://i.ibb.co/RHg6x7p/img3.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  },
+  {
+    "id": 4,
+    "name": "Tennis",
+    "image": "https://i.ibb.co/hY9gGQ2/img4.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  },
+  {
+    "id": 5,
+    "name": "Cricket",
+    "image": "https://i.ibb.co/fXsHQtR/img5.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  },
+  {
+    "id": 6,
+    "name": "Foot Ball",
+    "image": "https://i.ibb.co/PzVpwFP/img6.png",
+    "description": "Consectetur adipiscing elit, sed do eiuod tempor incididunt ut labore et dolore magna aliuis ipsum suspendisse ultrices gravida.",
+    "button": "Learn More"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
