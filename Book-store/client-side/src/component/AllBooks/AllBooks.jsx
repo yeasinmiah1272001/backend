@@ -8,7 +8,7 @@ const Books = () => {
   const { data: cart = [] } = useQuery({
     queryKey: ["books"],
     queryFn: async () => {
-      const response = await axios.get("http://localhost:5000/books");
+      const response = await axios.get("https://server-side-one-mauve.vercel.app/books");
       return response.data;
     },
   });

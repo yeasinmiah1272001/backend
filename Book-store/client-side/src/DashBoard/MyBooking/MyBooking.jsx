@@ -7,7 +7,7 @@ const MyBooking = () => {
   const [booking, setBooking] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/borrow")
+    fetch("https://server-side-one-mauve.vercel.app/borrow")
       .then((res) => res.json())
       .then((data) => setBooking(data));
   }, []);
@@ -23,7 +23,7 @@ const MyBooking = () => {
       confirmButtonText: "Yes, delete it!",
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`http://localhost:5000/borrow/${_id}`, {
+        fetch(`https://server-side-one-mauve.vercel.app/borrow/${_id}`, {
           method: "DELETE",
         })
           .then((res) => res.json())
@@ -114,9 +114,11 @@ const MyBooking = () => {
                   Update
                 </td>
               </Link>
-              <td className="px-6 py-4 whitespace-nowrap text-sm text-red-500">
-                Buy
-              </td>
+              <Link to={"/dash/payment"}>
+                <td className="px-6 py-4 whitespace-nowrap text-sm text-red-500">
+                  Buy
+                </td>
+              </Link>
             </tr>
           ))}
         </tbody>

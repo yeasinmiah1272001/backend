@@ -20,7 +20,7 @@ const Update = () => {
   });
 
   const onSubmit = (data) => {
-    fetch(`http://localhost:5000/borrow/${singledata._id}`, {
+    fetch(`https://server-side-one-mauve.vercel.app/borrow/${singledata._id}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",

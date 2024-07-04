@@ -9,7 +9,7 @@ import Error from "./component/Error/Error";
 import Home from "./component/Home/Home";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { QueryClient } from "react-query";
-import AllBooks from "./component/AllBooks/AllBooks"
+import AllBooks from "./component/AllBooks/AllBooks";
 import Details from "./component/Books/Details";
 import Contact from "./component/Contact/Contact";
 import DashBoard from "./DashBoard/DashBoard";
@@ -17,10 +17,9 @@ import UserHome from "./DashBoard/UserHome/UserHome";
 import MyBooking from "./DashBoard/MyBooking/MyBooking";
 import AddBooking from "./DashBoard/AddBooking/AddBooking";
 import Update from "./DashBoard/Update/Update";
+import PamentSyestem from "./DashBoard/PamentSyestem/PamentSyestem";
 
 const queryClient = new QueryClient();
-
-
 
 const router = createBrowserRouter([
   {
@@ -40,7 +39,7 @@ const router = createBrowserRouter([
         path: "/details/:category",
         element: <Details></Details>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/books/${params.category}`),
+          fetch(`https://server-side-one-mauve.vercel.app/books/${params.category}`),
       },
       {
         path: "/contact",
@@ -69,7 +68,13 @@ const router = createBrowserRouter([
       {
         path: "update/:id",
         element: <Update></Update>,
-        loader: ({ params }) => fetch(`http://localhost:5000/borrow/${params.id}`),
+
+        loader: ({ params }) =>
+          fetch(`https://server-side-one-mauve.vercel.app/borrow/${params.id}`),
+      },
+      {
+        path: "payment",
+        element: <PamentSyestem></PamentSyestem>,
       },
 
       // // addmin related

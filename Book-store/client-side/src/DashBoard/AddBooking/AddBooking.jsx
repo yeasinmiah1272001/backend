@@ -11,7 +11,7 @@ const AddBooking = () => {
   } = useForm();
 
   const onSubmitAdd = (data) => {
-    fetch("http://localhost:5000/borrow", {
+    fetch("https://server-side-one-mauve.vercel.app/borrow", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

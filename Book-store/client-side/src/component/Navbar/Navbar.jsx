@@ -31,9 +31,7 @@ const Navbar = () => {
             className="text-gray-600 hover:text-gray-900 flex gap-2"
           >
             <span>DashBoard</span>
-            <span className=" bg-red-500 text-white text-xs rounded-full px-2 py-1">
-             00
-            </span>
+           
           </Link>
           <Link to="/mybook" className="text-gray-600 hover:text-gray-900">
             My Books
