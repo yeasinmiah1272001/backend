@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+
+    "name": "Lalbag Kellah",
+    "description": "Lalbag Kellah is a historic fort in Dhaka, Bangladesh...",
+    "location": "Dhaka, Bangladesh",
+    "coordinates": { "latitude": 23.7075, "longitude": 90.4078 },
+    "imageURL": "https://i.ibb.co/37G0W1g/lal.jpg"
+  },
+  {
+    "id": 2,
+
+    "name": "Poddma Seto",
+    "description": "Poddma Seto is a breathtaking location known for its beauty...",
+    "location": "Bangladesh",
+    "coordinates": { "latitude": 24.0329, "longitude": 90.4171 },
+    "imageURL": "https://i.ibb.co/zxQcTc4/seto.jpg"
+  },
+  {
+    "id": 3,
+
+    "name": "Ahsan Monjil",
+    "description": "Ahsan Monjil is a historical palace situated in the heart of Dhaka...",
+    "location": "Dhaka, Bangladesh",
+    "coordinates": { "latitude": 23.7079, "longitude": 90.4125 },
+    "imageURL": "https://i.ibb.co/Kb8HtSg/ahsan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jaflong",
+    "description": "Jaflong is a picturesque destination in the Sylhet district of Bangladesh...",
+    "location": "Sylhet, Bangladesh",
+    "coordinates": { "latitude": 25.1664, "longitude": 92.0305 },
+    "imageURL": "https://i.ibb.co/pPvjpCD/jaflong.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sriti Sowdho",
+    "description": "Sriti Sowdho is a significant cultural site, showcasing the rich heritage of Bangladesh...",
+    "location": "Bangladesh",
+    "coordinates": { "latitude": 23.685, "longitude": 90.3563 },
+    "imageURL": "https://i.ibb.co/hKdQRSv/sei.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cox's Bazar",
+    "description": "Cox's Bazar is a famous tourist destination known for its long sandy beach...",
+    "location": "Cox's Bazar, Bangladesh",
+    "coordinates": { "latitude": 21.4272, "longitude": 92.0058 },
+    "imageURL": "https://i.ibb.co/h8NvTS2/cox.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Diya Bari",
+    "description": "Diya Bari is a serene village surrounded by lush greenery...",
+    "location": "Diya Bari, Bangladesh",
+    "coordinates": { "latitude": 23.8456, "longitude": 89.4601 },
+    "imageURL": "https://i.ibb.co/6JqcQp5/diya.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sonsod Bobon",
+    "description": "Sonsod Bobon is a hidden gem with beautiful landscapes and a tranquil atmosphere...",
+    "location": "Sonsod Bobon, Bangladesh",
+    "coordinates": { "latitude": 24.5637, "longitude": 91.8318 },
+    "imageURL": "https://i.ibb.co/sJ5p7s1/sonsod.jpg"
+  }
+]
