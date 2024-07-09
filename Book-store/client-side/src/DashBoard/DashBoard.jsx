@@ -1,11 +1,11 @@
 import { Link, Outlet } from "react-router-dom";
-import { FaHome, FaBook, FaList, FaMagic } from "react-icons/fa";
+import { FaHome, FaBook, FaList } from "react-icons/fa";
 
 const DashBoard = () => {
   return (
-    <div className="flex">
+    <div className="flex flex-col md:flex-row">
       {/* Sidebar */}
-      <div className="bg-pink-400 h-screen p-5 w-40">
+      <div className="bg-pink-400 h-auto md:h-screen p-5 md:w-40 w-full">
         <ul className="space-y-4">
           <li className="flex items-center space-x-2">
             <FaHome />
@@ -25,15 +25,8 @@ const DashBoard = () => {
               My Books
             </Link>
           </li>
-          <li className="flex items-center space-x-2">
-            <FaMagic></FaMagic>
-            <Link to="/dash/user" className="hover:text-gray-700">
-              All Users
-            </Link>
-          </li>
-          <li className="flex items-center space-x-2"></li>
         </ul>
-        <div className="divider divider-secondary"></div>
+        <div className="divider divider-secondary my-4"></div>
         <ul>
           <li className="flex items-center space-x-2">
             <FaHome />

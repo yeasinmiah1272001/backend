@@ -83,6 +83,25 @@ async function run() {
       res.send(result);
     });
 
+
+    // app.get("/borrow", async (req, res) => {
+    //   // console.log("this is token", req.cookies.token);
+    //   console.log("this is query", req.query.email);
+
+    //   let query = {};
+    //   if (req.query?.email) {
+    //     query = { email: req.query.email };
+    //   }
+    //   const result = await addBokkCollection.find(query).toArray();
+    //   // console.log(result)
+    //   res.send(result);
+    // });
+
+
+
+
+
+
     app.delete("/borrow/:id", async (req, res) => {
       const id = req.params.id;
       console.log("delete", id);

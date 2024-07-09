@@ -18,6 +18,10 @@ import MyBooking from "./DashBoard/MyBooking/MyBooking";
 import AddBooking from "./DashBoard/AddBooking/AddBooking";
 import Update from "./DashBoard/Update/Update";
 import PamentSyestem from "./DashBoard/PamentSyestem/PamentSyestem";
+import LoginFrom from "./component/LoginFrom/LoginFrom";
+import Registration from "./component/Registration/Registration";
+import AuthProvider from "./component/Provider/AuthProvider";
+import PrivateRoute from "./component/Provider/PrivateRoute";
 
 const queryClient = new QueryClient();
 
@@ -37,7 +41,11 @@ const router = createBrowserRouter([
       },
       {
         path: "/details/:category",
-        element: <Details></Details>,
+        element: (
+          <PrivateRoute>
+            <Details></Details>
+          </PrivateRoute>
+        ),
         loader: ({ params }) =>
           fetch(`https://server-side-one-mauve.vercel.app/books/${params.category}`),
       },
@@ -45,13 +53,25 @@ const router = createBrowserRouter([
         path: "/contact",
         element: <Contact></Contact>,
       },
+      {
+        path: "/login",
+        element: <LoginFrom></LoginFrom>,
+      },
+      {
+        path: "/registration",
+        element: <Registration></Registration>,
+      },
     ],
   },
 
   // dashbord
   {
     path: "/dash",
-    element: <DashBoard></DashBoard>,
+    element: (
+      <PrivateRoute>
+        <DashBoard></DashBoard>
+      </PrivateRoute>
+    ),
     children: [
       {
         path: "userhome",
@@ -89,7 +109,9 @@ const router = createBrowserRouter([
 ReactDOM.createRoot(document.getElementById("root")).render(
   <QueryClientProvider client={queryClient}>
     <React.StrictMode>
-      <RouterProvider router={router} />
+      <AuthProvider>
+        <RouterProvider router={router} />
+      </AuthProvider>
     </React.StrictMode>
   </QueryClientProvider>
 );
